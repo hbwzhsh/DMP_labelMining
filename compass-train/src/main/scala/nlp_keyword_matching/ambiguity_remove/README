@@ -1,0 +1,3 @@
+#Decision Tree Based Ambuguity Removal
+This module uses iFlytek open NLP lib to get sentence structure. Then decision tree classifier is used to ambuguity (0) or target (1)
+Detailed documentation see shared file system.
